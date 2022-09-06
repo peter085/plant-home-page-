@@ -1,0 +1,102 @@
+#navbarMonstera{
+    display: flex;
+    
+}
+#navbarMonstera{
+    display: inline block;
+}
+#navFirst{
+    display: flex;
+  
+}
+#navMid{
+    display: flex;
+    margin-left:250px;}
+    h4{
+margin-right: 30px;
+    }
+#navEnd{
+    display: flex;
+   margin-left: 300px;
+
+    /* float: right; */
+}
+h4{
+    margin-left: 50px;
+}
+#navEnd div{
+    margin-right: 35px;
+    margin-top: 20px;
+
+}
+#midWholePart11{
+    text-align:justify;
+    margin-top: 200px;
+    line-height: 20px;
+}
+
+#monstera{
+    font-size: 100px;
+    color:black ;
+    font-weight: 700;
+}
+#midWholePart12{
+display: inline-block;
+align-items: center;
+text-align: justify;
+}
+#midWholePart121{
+    /* display: inline-block; */
+    /* text-align:justify; */
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: darkgreen;
+    padding: 0px 50px;
+    border-radius: 40px;
+    color: white;
+
+}
+#midWholePart122{
+text-align: center;
+justify-content: center;
+align-items: center;
+margin-top: 25px;
+margin-left: 15px;
+}
+
+.midWholePart13Parts{
+    /* display:inline-block; */
+    text-align: center;
+}
+#midWholePart13{
+    display: flex;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+#imgMain1{
+    float: right;
+    margin-top: -500px;}
+    
+    #feeding,#light,#care{
+        margin-right: 0px;
+    }
+    .midWholePart13Parts h4,p{
+        display: inline-block;
+
+margin-left: 100px;
+margin-top: 0x;
+    }
+
+    .text{
+        text-align: center;
+        font-size: 15px;
+        justify-content: center;
+    }
+    #feeding,#light,#care{
+        display:  inline block;
+        margin-top: -20px;
+        margin-right: 10px;
+        
+    }
